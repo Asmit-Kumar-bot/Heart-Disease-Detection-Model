@@ -32,8 +32,8 @@ This project uses machine learning to predict whether a person is likely to have
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Asmit-Kumar-bot/AutoML-Car-Valuation.git
-   cd AutoML-Car-Valuation
+   git clone https://github.com/Asmit-Kumar-bot/Heart-Disease-Detection-Model.git
+   cd Heart-Disease-Detection-Model
 
 2. Install dependencies:
    ```bash
