@@ -51,4 +51,3 @@ This project uses machine learning to predict whether a person is likely to have
 
 Try out the live Streamlit app here:  
 👉 [Heart Disease Check App](https://asmit-kumar-bot-heart-disea-heart-disease-prediction-app-4m5r7t.streamlit.app/)
----
