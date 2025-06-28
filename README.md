@@ -47,4 +47,8 @@ This project uses machine learning to predict whether a person is likely to have
 4. Run all cells to train the model and view results.
 
 
+## 🚀 Live Demo
+
+Try out the live Streamlit app here:  
+👉 [Heart Disease Check App](https://asmit-kumar-bot-heart-disea-heart-disease-prediction-app-4m5r7t.streamlit.app/)
 ---
