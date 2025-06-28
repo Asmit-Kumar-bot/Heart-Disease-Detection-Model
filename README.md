@@ -6,6 +6,8 @@ This project uses machine learning to predict whether a person is likely to have
 - `Heart_disease_prediction.ipynb`: Main Jupyter Notebook containing model training and testing.
 - `dataset.csv`: Dataset used to train the model.
 - `requirements.txt`: List of dependencies.
+- `logisticregression.pkl` – Saved Logistic Regression model file.
+- `Heart_disease_prediction_app.py` – Streamlit application script for heart disease prediction.
 
 ## 🧠 Libraries Used
 - pandas
